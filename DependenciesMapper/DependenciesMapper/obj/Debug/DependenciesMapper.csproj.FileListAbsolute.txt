@@ -1,0 +1,7 @@
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\bin\Debug\DependenciesMapper.exe.config
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\bin\Debug\DependenciesMapper.exe
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\bin\Debug\DependenciesMapper.pdb
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\obj\Debug\DependenciesMapper.csprojAssemblyReference.cache
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\obj\Debug\DependenciesMapper.csproj.CoreCompileInputs.cache
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\obj\Debug\DependenciesMapper.exe
+C:\Users\mhevron\source\repos\DependenciesMapper\DependenciesMapper\obj\Debug\DependenciesMapper.pdb
