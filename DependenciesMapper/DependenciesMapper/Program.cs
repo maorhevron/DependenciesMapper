@@ -15,7 +15,10 @@ namespace DependenciesMapper
             string rootStringDir = "D:\\TFS\\Cornerstone\\DevRelease\\Cornerstone.Tincan";
             MapDependencies(rootStringDir);
 
-            rootStringDir = "D:\\TFS\\Cornerstone\\DevRelease\\CornerstoneApp\\RestService";
+            //rootStringDir = "D:\\TFS\\Cornerstone\\DevRelease\\CornerstoneApp\\RestService";
+            rootStringDir = "D:\\TFS\\Cornerstone\\DevRelease\\CornerstoneApp\\RestService\\Cornerstone.RestService\\ServiceContracts\\TinCan";
+            MapDependencies(rootStringDir);
+            rootStringDir = "D:\\TFS\\Cornerstone\\DevRelease\\CornerstoneApp\\RestService\\Cornerstone.RestService\\Services\\TinCan";
             MapDependencies(rootStringDir);
 
             exportDependenciesToFile();
